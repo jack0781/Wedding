@@ -28,7 +28,7 @@ const newCouple = 'Saharsh & Isha';
 const weddingDate = new Date(2021, 02, 14);
 
 // Wedding venue: https://g.page/Mishttenresort
-const weddingVenue = new Location('Mishtten Resort, Rajasthan');
+const weddingVenue = new Location('Shamla Bapa Hall, Bhavnagar');
 
 (function() {
     newCouple.willTieKnot(weddingDate);
